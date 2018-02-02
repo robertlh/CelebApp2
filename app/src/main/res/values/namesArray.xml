@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="namesArray">
+        <item>Jackson</item>
+        <item>Obama</item>
+        <item>Lawrence</item>
+        <item>Chastain</item>
+        <item>Jolie</item>
+        <item>Peters</item>
+        <item>De Nero</item>
+        <item>Trump</item>
+    </string-array>
+</resources>
